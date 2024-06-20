@@ -17,9 +17,7 @@ If you prefer to add Teleport as a plugin in Oh My Zsh, you can create a custom 
    ```
 
 3. **Add the following content to the `teleport.plugin.zsh` file**:
-   ```sh
-    
-   ```
+   [teleport.plugin.zsh](https://gist.github.com/RodCyb3Dev/1a62a370a166284e9ce324c3f384f2c2)
 
 4. **Save and close the file** (in nano, you can do this by pressing `CTRL + X`, then `Y`, and `Enter`).
 
